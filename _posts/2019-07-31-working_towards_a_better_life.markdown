@@ -13,7 +13,7 @@ My liberal arts degrees allowed me to obtain a job as a tiny cog in a giant corp
 
 My work consisted of processing orders and pricing requests for very complicated window and door systems.  It was the type of work that only a few people there understood and most people didn't want to understand it.  I didn't think it was that difficult, but I am very stubborn and may have just insisted on understanding a bit more that most of my coworkers.
 
-I think working in that office is where I first started thinking about a career in coding.  I was always the one in the family to handle technological items.  My dad would get us a new vcr and I would be the one to hook it up and program it (yes, I'm giving my age away here).  
+I think working in that office is where I first started thinking about a career in coding. 
 
 When I worked for the giant corporation, I worked on several different data entry systems.  I know I was working with the consumer side and that they were configured for my ease whenever possible, but I would catch glimpses behind the scenes once in a while if things did not go right.  It made me wonder about all the work that went into those systems and how it was a type of magic that made them work.  I thought it would be interesting to learn what I could about that magic and apply it to a new career and in turn enjoy a better life.
 
