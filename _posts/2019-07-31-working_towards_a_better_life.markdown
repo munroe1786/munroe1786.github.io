@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**Working Towards a Better Life**"
-date:       2019-08-01 00:23:50 +0000
+title:      "Working Towards a Better Life"
+date:       2019-07-31 20:23:51 -0400
 permalink:  working_towards_a_better_life
 ---
 
