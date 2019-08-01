@@ -1,11 +1,11 @@
 # Site settings
 author: Eliza Munroe
-title: 
+title: It's the journey, not the destination.
 header-img: img/home-bg.png
 email: era3munroe@gmail.com
 copyright_name: Eliza Munroe
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A fledgling coder's thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  munroe1786
