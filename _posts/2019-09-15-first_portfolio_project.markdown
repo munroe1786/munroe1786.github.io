@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Portfolio Project"
-date:       2019-09-15 17:27:12 +0000
+date:       2019-09-15 13:27:12 -0400
 permalink:  first_portfolio_project
 ---
 
@@ -27,4 +27,4 @@ So now I am going to prepare for the project review by making sure I understand 
 
 
 
-The content of your blog post goes here.
+
