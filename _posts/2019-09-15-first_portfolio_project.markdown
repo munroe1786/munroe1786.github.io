@@ -19,7 +19,7 @@ I feel like I learned a lot working on this project.  Writing code from the grou
 
 I also learned to reach out for help, something that is hard for me at times.  But we are all here to help each other learn, succeed and grow.
 
-So now I am going to prepare for the project review by making sure I understand all the mechanics of the gem and its file structures.  I also want to review OOP so that I am to discuss it confidently.
+So now I am going to prepare for the project review by making sure I understand all the mechanics of the gem and its file structures.  I also want to review OOP so that I am able to discuss it confidently.
 
 
 
